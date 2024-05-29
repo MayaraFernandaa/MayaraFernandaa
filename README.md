@@ -1,4 +1,5 @@
-## Olá, Eu sou a Mayara Fernanda !!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+meu+nome+é+Mayara;Eu+Tenho+18+anos+;welcome%3A)](https://git.io/typing-svg)
 
 📚 Atualmente Estudando Bacharelado em Engenharia de Software 
 
@@ -10,9 +11,11 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayarafernandaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayarafernandaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayarafernandaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayarafernandaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+##
 
 ###
 
