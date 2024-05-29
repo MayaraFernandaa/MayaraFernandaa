@@ -1,5 +1,12 @@
-## Olá, Eu sou a Mayara Fernanda
+## Olá, Eu sou a Mayara Fernanda !!
 
+📚 Atualmente Estudando Bacharelado em Engenharia de Software 
+
+<h3 align="left">Conecte-se comigo:</h3>
+
+[Linkedin](https://www.linkedin.com/in/mayara-fernanda-9a1625253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+
+[Instagram](https://www.instagram.com/_igmayy?igsh=bjJqbzdreGZzZW00&utm_source=qr)
 
 
 <div align="center">
@@ -17,12 +24,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
 </div>
-
-[Linkedin](https://www.linkedin.com/in/mayara-fernanda-9a1625253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-
-[Instagram](https://www.instagram.com/_igmayy?igsh=bjJqbzdreGZzZW00&utm_source=qr)
-
-
-
-
 
